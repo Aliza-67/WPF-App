@@ -1,0 +1,10 @@
+﻿<Window x:Class="DatabaseApp1.HomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Home Page" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="AddEntryButton" Content="Add Entry" HorizontalAlignment="Center" Margin="0,92,0,0" VerticalAlignment="Top" Width="182" Height="58" Click="AddEntryButton_Click"/>
+        <Button x:Name="SaveEntryButton" Content="Save Entry" HorizontalAlignment="Center" VerticalAlignment="Center" Width="182" Height="58" Click="SaveEntryButton_Click"/>
+        <Button x:Name="AboutDevelopersButton" Content="About Developers" HorizontalAlignment="Center" Margin="0,294,0,0" VerticalAlignment="Top" Width="182" Height="58" Click="AboutDevelopersButton_Click"/>
+    </Grid>
+</Window>

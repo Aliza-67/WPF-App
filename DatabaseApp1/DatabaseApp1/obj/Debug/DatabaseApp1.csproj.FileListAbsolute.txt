@@ -1,0 +1,9 @@
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1.csproj.AssemblyReference.cache
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\MainWindow.baml
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\MainWindow.g.cs
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\AddEntryPage.g.cs
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\AboutDevelopers.g.cs
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\SaveEntryPage.g.cs
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\App.g.cs
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1_MarkupCompile.cache
+C:\Users\vansl\source\repos\DatabaseApp1\DatabaseApp1\obj\Debug\DatabaseApp1_MarkupCompile.lref
